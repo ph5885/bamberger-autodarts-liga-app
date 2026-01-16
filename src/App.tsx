@@ -1,8 +1,8 @@
-import React from 'react';
-import OldIndex from './OldIndex';
+
+import Oldindex from './Oldindex';
 
 function App() {
-  return <OldIndex />;
+  return <Oldindex />;
 }
 
 export default App;
